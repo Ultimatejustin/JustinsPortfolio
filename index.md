@@ -8,7 +8,7 @@
 <br><br>
 <img src="images/IMG_2312.jpeg?raw=true"/>
 <br><br>
-Unity Game Developer(Programming, Design, UI, and Animation) (February 2024 - July 2024)
+Unity Game Developer(Programming, Design, UI, and Animation)
 
 
 
@@ -18,7 +18,7 @@ Unity Game Developer(Programming, Design, UI, and Animation) (February 2024 - Ju
 <br><br>
 <img src="images/e4e.jpg?raw=true"/>
 <br><br>
-Unity Game Designer (August 2022-May 2023)
+Unity Game Designer
 
 ---
 
@@ -28,7 +28,7 @@ Unity Game Designer (August 2022-May 2023)
 <br><br>
 <img src="images/jellyu.jpg?raw=true"/>
 <br><br>
-Volunteer Technical Game Designer (October 2023 - February 2024)
+Volunteer Technical Game Designer
 
 ---
 
@@ -38,7 +38,7 @@ Volunteer Technical Game Designer (October 2023 - February 2024)
 <br><br>
 <img src="images/gun.png?raw=true"/>
 <br><br>
-Programmer, Animator, UI Designer (August 2022-December 2022)
+Programmer, Animator, UI Designer 
 
 ---
 [Tiny Little Ember](https://justin0618.itch.io/tiny-little-ember) | **USC Games**
@@ -101,7 +101,7 @@ A heightmap visualizer that can switch modes and maps viewed
 <br><br>
 <img src="images/LBGames.png?raw=true"/>
 <br><br>
-Quality Assurance (July 2024 - Present)
+Quality Assurance
 <br><br>
 Basically an Online Casino
 
@@ -112,7 +112,7 @@ Basically an Online Casino
 <br><br>
 <img src="images/kumeo.png?raw=true"/>
 <br><br>
-Quality Assurance (July 2024 - Present)
+Quality Assurance
 <br><br>
 Company Pay Service
 
