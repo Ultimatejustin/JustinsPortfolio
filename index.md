@@ -107,18 +107,16 @@ A heightmap visualizer that can switch modes and maps viewed
 
 ### Other Major Projects
 <br><br> 
-[Luckyball Games](https://luckyball.games/)  | **UpPoint Inc.** <br><br>
+[Luckyball Games(Discontinued)](https://luckyball.games/)  | **UpPoint Inc.** <br><br>
 <br><br>
 <img src="images/LBGames.png?raw=true"/>
 <br><br>
-Quality Assurance
+UI/UX and Quality Assurance
 <br><br>
-Basically an Online Casino
-
 ---
 
 <br><br> 
-[Kumeo Payments](https://pay.kumeo.com/)  | **UpPoint Inc.** <br><br>
+[Kumeo Payments(Discontinued)](https://pay.kumeo.com/)  | **UpPoint Inc.** <br><br>
 <br><br>
 Quality Assurance
 <br><br>
