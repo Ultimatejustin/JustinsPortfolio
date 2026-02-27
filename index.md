@@ -120,8 +120,6 @@ Basically an Online Casino
 <br><br> 
 [Kumeo Payments](https://pay.kumeo.com/)  | **UpPoint Inc.** <br><br>
 <br><br>
-<img src="images/kumeo.png?raw=true"/>
-<br><br>
 Quality Assurance
 <br><br>
 Company Pay Service
