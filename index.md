@@ -8,6 +8,7 @@
 <br><br>
 Unity Game Developer(Programming, Design, 3D Modeling)
 
+---
 
 
 [Rock N' Rumble](https://apps.apple.com/us/app/rock-n-rumble/id6476643893) | **LiveRocket Games/UpPoint Inc.** <br><br>
@@ -18,6 +19,7 @@ Unity Game Developer(Programming, Design, 3D Modeling)
 <br><br>
 Unity Game Developer(Programming, Design, UI, and Animation)
 
+---
 
 
 [Eye 4 Eye](https://store.steampowered.com/app/2269450/Eye_4_Eye/) | [Puzzles I worked on](https://youtu.be/2SZ7U0vn0uk) | **USC Games** <br><br>
