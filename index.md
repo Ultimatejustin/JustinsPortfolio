@@ -106,13 +106,13 @@ A heightmap visualizer that can switch modes and maps viewed
 ---
 
 ### Other Major Projects
-<br><br> 
 [Luckyball Games(Discontinued)](https://luckyball.games/)  | **UpPoint Inc.** <br><br>
 <br><br>
 <img src="images/LBGames.png?raw=true"/>
 <br><br>
 UI/UX and Quality Assurance
 <br><br>
+
 ---
 
 <br><br> 
