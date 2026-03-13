@@ -1,5 +1,5 @@
 title: Justin Chen # your name (or website title) here
-logo: "/images/portrait.jpg" # your photo (or logo) here
+logo: <img src="images/portrait.jpg?raw=true"/> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer Science Games Major from University of Southern California
   <br><br>
