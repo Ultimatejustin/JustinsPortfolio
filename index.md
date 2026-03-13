@@ -5,7 +5,6 @@
 [Fly Cook](https://aylishtime.itch.io/fly-cook) | **Brackeys Game Jam 2026.1** <br><br>
 <br><br>
 <img src="images/dVtLgQ.png?raw=true"/>
-<img src="images/portrait.png?raw=true"/>
 <br><br>
 Unity Game Developer(Programming, Design, 3D Modeling)
 
